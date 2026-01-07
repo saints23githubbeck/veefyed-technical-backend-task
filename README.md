@@ -16,7 +16,7 @@ Simple REST API built with FastAPI that allows uploading images and getting mock
 
 ```bash
 # 1. Clone repository
-git clone <your-repo-url>
+git clone https://github.com/saints23githubbeck/veefyed-technical-backend-task.git
 cd veefyed-technical-backend-task
 
 # 2. Create virtual environment (Python 3.9 recommended)
